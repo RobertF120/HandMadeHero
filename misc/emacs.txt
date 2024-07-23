@@ -1,0 +1,2 @@
+ALT-B       Switch to buffer in the current window
+ALT-SHIFT-B Switch to buffer in the other window
